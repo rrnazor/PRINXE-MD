@@ -32,19 +32,19 @@
 
 ### 𝘾𝙇𝙄𝘾𝙆 𝘼𝙉𝘿 𝙒𝘼𝙄𝙏 𝙏𝙊 𝙊𝙋𝙀𝙉 𝙏𝙃𝙀 𝙎𝙄𝙏𝙀
 
-### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1
+### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 1 ⛔ on fixing process....
 <p align="left">
 <a href="https://prince-bot-pairing-code.onrender.com"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-skyblue?style=for-the-badge&logo=render"></a>
 <p/>
 
-### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2
+### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 2 ⛔ on fixing process...
 <p align="left">
 <a href="https://comparative-etti-secktor-455a93b0.koyeb.app/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-green?style=for-the-badge&logo=render"></a>
 <p/>
 
-### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 3
+### 𝙋𝘼𝙄𝙍 𝘾𝙊𝘿𝙀 3 This one working for now try this✅
 <p align="left">
-<a href="https://8wwxl9-8000.csb.app/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-red?style=for-the-badge&logo=render"></a>
+<a href="https://pairing-code-7oa0.onrender.com/"><img height= "30" title="Author" src="https://img.shields.io/badge/𝗦𝗘𝗦𝗦𝗜𝗢𝗡-red?style=for-the-badge&logo=render"></a>
 <p/>
 
 
@@ -71,7 +71,8 @@
 ### <br>
   <p align="left"><a href="https://app.koyeb.com/apps/deploy?type=git&repository=github.com%2FPRINCE-GDS%2FPRINXE-MD&branch=main&nameprincegds&builder=dockerfile&env[DATABASE_URL]=&env[SESSION_ID]=your+sessionid+here&env[MODE]=public&env=[autoRead]=false&env[statusview]=false&env[REMOVEBG_KEY]=your+rmbg+key&env[antidelete]=false"> <img src="https://www.koyeb.com/static/images/deploy/button.svg" height="30"/></a></p>
 
-
+### <br>
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
